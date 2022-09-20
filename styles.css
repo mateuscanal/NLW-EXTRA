@@ -113,6 +113,7 @@ section ul li:hover {
 
 .mymovies-list img {
     border-radius: 8px;
+    border: 1px solid #443E54;
     width: 100px;
     height: 150px;
 
